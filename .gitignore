@@ -1,0 +1,14 @@
+node_modules/
+bower_components/
+.sass-cache/
+src/css
+*.orig
+*.bak
+*.BAK
+*.tmp
+*.TMP
+*.sw*
+*.old
+*-lock.json
+*.DS_Store
+Thumbs.db
